@@ -16,3 +16,6 @@ Abaixo vemos uma lista das principais operações que a maioria das estruturas d
     Encontrar um elemento
     Retornar um elemento
     Informar o número de elementos
+
+Como já destacado, apesar destas operações serem comuns, dependendo da estrutura de dados a implementação destes comportamentos
+serão diferentes em acordo com a regra determinada.

@@ -4,7 +4,11 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Estrutura de Dados', link: '/estruturadados/' },
+      { text: 'Estrutura Dados', link: '/estruturadados/' },
+    ],
+    sidebar: [
+      '/',
+      '/estruturadados/'
     ]
   }
 }

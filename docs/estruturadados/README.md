@@ -1,5 +1,5 @@
 ---
-title: Introdução a Estrutura de Dados
+title: Estrutura de Dados
 ---
 # Estrutura de Dados
 
